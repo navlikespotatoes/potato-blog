@@ -19,4 +19,4 @@ They are the best!
 
 See your yourself below
 
-![cute potato](/assets/potato.jpg)
+![cute potato]({{site.baseurl}}/assets/potato.jpg)
